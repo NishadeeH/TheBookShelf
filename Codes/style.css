@@ -1,0 +1,9 @@
+.navbar{
+    background-color: rgb(10, 133, 133);
+    width: 100%;
+   
+}
+
+.nav-tabs{
+    display: inline-block;
+}
